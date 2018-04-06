@@ -1,0 +1,100 @@
+body
+{
+   background-image: url("https://www.wallpapersin4k.org/wp-content/uploads/2017/04/Repeat-Wallpaper-12.jpg");
+   background-repeat:repeat;
+  font-family: 'poiret One',cursive;
+}
+
+
+/*h1,h2,h3,h4,h5,h6
+{
+  font-family: 'lobster two',cursive;
+}
+/* nav--------------------*/
+.navbar{
+  background: orange   ;
+}
+.main-title
+{
+
+  color: black!important;
+  font-size: 25px;
+}
+/*footer------------------*/
+footer{
+  background: #AED6F1;
+  text-align: center;
+}
+foote p {
+  text-align: justify;
+}
+ul.redes li
+{
+  display: inline-block;
+}
+ul.redes a{
+  color: white;
+}
+/* Catalogo -------------*/
+#products {
+position: relative;
+max-width: 100%;
+width: 100%;
+}
+img
+ {
+width: 200px;
+max-width: 100%;
+height: 200px;
+}
+.white-panel {
+position: absolute;
+background: white;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+padding: 10px;
+}
+.white-panel h1 {
+font-size: 1em;
+}
+.white-panel h1 a {
+color: #A92733;
+}
+.white-panel:hover {
+box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+margin-top: -5px;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+}
+/* Detalle producto ---------*/
+.product-block
+{
+	background: white;
+	border-radius: 1em;
+	padding: 1em;
+}+
+/*slider.........................*/
+.navbar{
+  margin-bottom: 0;
+
+}
+/*carrito----------------*/
+.table-carrito{
+  background: white;
+  border-radius: 1em;
+  margin-bottom: 30px;
+  padding: 1em;
+}
+.table-carrito img
+{
+  width: 100px;
+  max-width: 30%;
+  height:auto;
+}
+.page{
+  background: white;
+  border-radius: 1em;
+  margin-bottom: 30px;
+  padding: 1em;
+}
